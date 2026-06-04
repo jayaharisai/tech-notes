@@ -1,1 +1,1 @@
-# Tech Notes
+<h1 align="center">TECH-NOTES</h1>
