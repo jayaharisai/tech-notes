@@ -370,21 +370,21 @@ Tools:
 * Hadoop
 * Databricks
 
----
-
 # Career Path
 
+```text
 Beginner
-↓
+    ↓
 Junior Data Engineer
-↓
+    ↓
 Data Engineer
-↓
+    ↓
 Senior Data Engineer
-↓
+    ↓
 Lead Data Engineer
-↓
+    ↓
 Data Architect
+```
 
 As experience grows, engineers often specialize in:
 
@@ -397,6 +397,7 @@ As experience grows, engineers often specialize in:
 
 # Recommended Learning Order
 
+```text
 Data Engineering Roadmap
 │
 ├── Foundations
@@ -519,68 +520,90 @@ Data Engineering Roadmap
     ├── Kafka
     ├── System Design
     └── Behavioral Questions
+```
 
-Phase 1: Foundations
+---
+
+# Learning Phases
+
+## Phase 1: Foundations
+
 1. Linux
 2. Git
 3. SQL
 4. Python
 
-Phase 2: Data Storage
+## Phase 2: Data Storage
+
 5. PostgreSQL
 6. Data Modeling
 7. NoSQL Databases
 
-Phase 3: Analytics
+## Phase 3: Analytics
+
 8. Data Warehousing
 9. dbt
 
-Phase 4: Pipelines
+## Phase 4: Pipelines
+
 10. ETL / ELT
 11. Apache Airflow
 
-Phase 5: Big Data
+## Phase 5: Big Data
+
 12. Apache Spark
 13. Databricks
 
-Phase 6: Modern Data Platforms
+## Phase 6: Modern Data Platforms
+
 14. Iceberg / Delta Lake
 15. Trino
 16. DuckDB
 
-Phase 7: Streaming
+## Phase 7: Streaming
+
 17. Kafka
 18. Flink
 
-Phase 8: Cloud
+## Phase 8: Cloud
+
 19. AWS (Recommended First)
 20. Azure / GCP
 
-Phase 9: DevOps
+## Phase 9: DevOps
+
 21. Docker
 22. Terraform
 23. CI/CD
 24. Kubernetes
 
-Phase 10: Reliability
+## Phase 10: Reliability
+
 25. Data Quality
 26. Observability
 
-Phase 11: Architecture
+## Phase 11: Architecture
+
 27. Data Lake Design
 28. Warehouse Design
 29. Lakehouse Design
 30. System Design
 
-Phase 12: AI Era Data Engineering
+## Phase 12: AI Era Data Engineering
+
 31. Vector Databases
 32. RAG Pipelines
 33. LLM Data Pipelines
 
-Phase 13: Career Readiness
+## Phase 13: Career Readiness
+
 34. Projects
 35. Certifications
 36. Interview Preparation
+
+```
+```
+
 
 
 # Final Thoughts
