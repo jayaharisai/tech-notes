@@ -397,18 +397,191 @@ As experience grows, engineers often specialize in:
 
 # Recommended Learning Order
 
-1. SQL
-2. Python
-3. Databases
-4. Data Warehousing
-5. ETL Concepts
-6. Apache Airflow
-7. Apache Spark
-8. Cloud Platforms
-9. Kafka & Streaming
-10. Data Quality & Monitoring
+Data Engineering Roadmap
+│
+├── Foundations
+│   ├── Linux
+│   ├── Git
+│   ├── SQL
+│   ├── Python
+│   └── Software Engineering Basics
+│
+├── Data Storage
+│   ├── Relational Databases
+│   ├── NoSQL Databases
+│   ├── Data Modeling
+│   └── Query Optimization
+│
+├── Data Warehousing
+│   ├── OLTP vs OLAP
+│   ├── Star Schema
+│   ├── Snowflake Schema
+│   ├── Fact & Dimension Tables
+│   └── Data Marts
+│
+├── Data Pipelines
+│   ├── ETL
+│   ├── ELT
+│   ├── CDC
+│   ├── Batch Processing
+│   └── Incremental Loads
+│
+├── Orchestration
+│   ├── Apache Airflow
+│   ├── Dagster
+│   └── Prefect
+│
+├── Analytics Engineering
+│   ├── dbt
+│   ├── Testing
+│   ├── Documentation
+│   └── Semantic Layers
+│
+├── Big Data
+│   ├── Hadoop (Concepts)
+│   ├── Apache Spark
+│   ├── PySpark
+│   └── Databricks
+│
+├── Modern Lakehouse
+│   ├── Iceberg
+│   ├── Delta Lake
+│   ├── Hudi
+│   ├── Parquet
+│   └── Apache Arrow
+│
+├── Streaming Systems
+│   ├── Kafka
+│   ├── Flink
+│   ├── Spark Streaming
+│   ├── Event Time
+│   └── Watermarks
+│
+├── Cloud Platforms
+│   ├── AWS
+│   ├── Azure
+│   ├── GCP
+│   ├── IAM
+│   ├── Networking
+│   └── Storage
+│
+├── DevOps for Data Engineers
+│   ├── Docker
+│   ├── Terraform
+│   ├── CI/CD
+│   └── Kubernetes
+│
+├── Data Quality
+│   ├── Great Expectations
+│   ├── Soda
+│   ├── Validation Rules
+│   └── Data Contracts
+│
+├── Observability
+│   ├── Logging
+│   ├── Monitoring
+│   ├── Alerting
+│   ├── Lineage
+│   └── SLA Tracking
+│
+├── Query Engines
+│   ├── Trino
+│   ├── DuckDB
+│   └── Distributed SQL
+│
+├── Architecture
+│   ├── Data Lakes
+│   ├── Warehouses
+│   ├── Lakehouses
+│   ├── Batch Architecture
+│   ├── Streaming Architecture
+│   └── Enterprise Data Platforms
+│
+├── AI Data Engineering
+│   ├── Vector Databases
+│   ├── Embeddings
+│   ├── RAG Pipelines
+│   ├── LLM Data Pipelines
+│   └── AI Data Infrastructure
+│
+├── Portfolio Projects
+│   ├── ETL Project
+│   ├── Airflow Project
+│   ├── Spark Project
+│   ├── Kafka Project
+│   ├── Lakehouse Project
+│   └── End-to-End Cloud Project
+│
+└── Interview Preparation
+    ├── SQL
+    ├── Python
+    ├── Spark
+    ├── Kafka
+    ├── System Design
+    └── Behavioral Questions
 
----
+Phase 1: Foundations
+1. Linux
+2. Git
+3. SQL
+4. Python
+
+Phase 2: Data Storage
+5. PostgreSQL
+6. Data Modeling
+7. NoSQL Databases
+
+Phase 3: Analytics
+8. Data Warehousing
+9. dbt
+
+Phase 4: Pipelines
+10. ETL / ELT
+11. Apache Airflow
+
+Phase 5: Big Data
+12. Apache Spark
+13. Databricks
+
+Phase 6: Modern Data Platforms
+14. Iceberg / Delta Lake
+15. Trino
+16. DuckDB
+
+Phase 7: Streaming
+17. Kafka
+18. Flink
+
+Phase 8: Cloud
+19. AWS (Recommended First)
+20. Azure / GCP
+
+Phase 9: DevOps
+21. Docker
+22. Terraform
+23. CI/CD
+24. Kubernetes
+
+Phase 10: Reliability
+25. Data Quality
+26. Observability
+
+Phase 11: Architecture
+27. Data Lake Design
+28. Warehouse Design
+29. Lakehouse Design
+30. System Design
+
+Phase 12: AI Era Data Engineering
+31. Vector Databases
+32. RAG Pipelines
+33. LLM Data Pipelines
+
+Phase 13: Career Readiness
+34. Projects
+35. Certifications
+36. Interview Preparation
+
 
 # Final Thoughts
 
