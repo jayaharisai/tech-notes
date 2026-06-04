@@ -1,4 +1,4 @@
-Below is a complete, end‑to‑end Linux guide – from absolute beginner to advanced level. It covers daily use, system administration, databases, networking, scripting, performance tuning, and everything you need to crack a senior Linux job.  
+<p>Below is a complete, end‑to‑end Linux guide – from absolute beginner to advanced level. It covers daily use, system administration, databases, networking, scripting, performance tuning, and everything you need to crack a senior Linux job.  </p>
 You can copy everything below and save it as `linux_complete_guide.md`.
 
 ```markdown
